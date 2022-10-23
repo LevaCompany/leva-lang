@@ -1,0 +1,7 @@
+cinsrto varTor = lit-10;
+
+function *VAR-TOR*{
+  varSupport = titleVault;
+  title("Hello, World!");
+  msgBox("Hello, World!");
+}
