@@ -3,12 +3,7 @@
  <conenct href="mix.css" src="mix.css">
  <Lang-Body>
   <Lang-Boxing>
-   <messageBox>
-    <text>Hello, world!</text>
-    <Buttons-Box>
-     
-    </Buttons-Box>
-   </messageBox>
+   <messageBox>Hello, world!</messageBox>
    <pause>
   </Lang-Boxing>
  </Lang-Body>
