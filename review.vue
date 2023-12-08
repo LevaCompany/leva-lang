@@ -1,6 +1,6 @@
 <Leva-Proceres>
  <Lang-Title>Hello, world!</Lang-Title>
- <conenct href="mix.css" src="mix.css">
+ <connect href="mix.css" src="mix.css">
  <Lang-Body>
   <Lang-Boxing>
    <messageBox>
